@@ -1,0 +1,10 @@
+# Entorno virtual
+venv/
+
+# Cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Archivos de FAISS pesados (opcional, solo si no quieres subirlos)
+faiss_index/
